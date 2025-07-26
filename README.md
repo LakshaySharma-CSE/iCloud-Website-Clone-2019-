@@ -31,10 +31,13 @@ If you’re looking for someone who is:
 # 🛠 What I'm Building
 
 This space is more than a portfolio — it's a living lab of my journey:
-<br>
-  🔗  Projects: Real-world experiments in progress (coming soon!)<br>
-  📓  Dev Logs: Notes, breakthroughs, and the messy magic of learning<br>
-  🌱  Growth: From first "Hello World" to a future in Robotics, AI & Automation<br>
+<br>  
+
+  🔗  Projects: Real-world experiments in progress (coming soon!) <br>
+  
+  📓  Dev Logs: Notes, breakthroughs, and the messy magic of learning <br>
+  
+  🌱  Growth: From first "Hello World" to a future in Robotics, AI & Automation <br>
 
 # 📬 Let’s Connect
 
