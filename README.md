@@ -21,10 +21,13 @@ Whether it's a web interface, an app prototype, or an automation script — I be
 Technology isn’t just about syntax or semicolons — it’s a canvas for creativity, a tool for impact, and a path to innovation.
 
 If you’re looking for someone who is:
+<br> 
 
-  💡 Endlessly curious and always learning
-  ⚙ Obsessively driven by problem-solving and perfection
-  🤝 Ready to collaborate on bold, meaningful projects
+  💡 Endlessly curious and always learning <br>
+  
+  ⚙ Obsessively driven by problem-solving and perfection <br>
+  
+  🤝 Ready to collaborate on bold, meaningful projects <br>
 
   You’re in the right place.
 
